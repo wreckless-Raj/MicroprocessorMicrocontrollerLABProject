@@ -1,5 +1,5 @@
 # MicroprocessorMicrocontrollerLABProject
-Smart Pet Feeding System
+**Smart Pet Feeding System**
 
 
 The ”Automated Pet Feeding System” is a cutting-edge
