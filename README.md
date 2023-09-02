@@ -34,9 +34,6 @@ and portion sizes for their pets.
 2) Portion Control Dispense precise
 amounts of food to prevent overfeeding
 or underfeeding.
-3) Remote Feeding Enable users to feed
-their pets remotely using a mobile app
-or web interface.
 4) Food Level Monitoring Implement a system to detect and display the remaining
 food level in the feeder.
 5) Customizable Alerts Send notifications or
