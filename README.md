@@ -14,3 +14,6 @@ daily feeding routine for pet owners while ensuring the health
 and well-being of their pets. By utilizing a microprocessor controlled mechanism, this system will accurately dispense
 appropriate portions of pet food at scheduled intervals, all
 while addressing safety concerns and promoting convenience.
+
+
+**Watch full project demonstration**:  https://www.youtube.com/watch?v=J71oM-ujl20
