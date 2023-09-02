@@ -31,13 +31,13 @@ _FEATURES_
 1) Programmable Feeding Schedule Allow
 pet owners to set specific feeding times
 and portion sizes for their pets.
-2) Portion Control Dispense precise
+2) Portion Control: Dispense precise
 amounts of food to prevent overfeeding
 or underfeeding.
-4) Food Level Monitoring Implement a system to detect and display the remaining
+3) Food Level Monitoring Implement a system to detect and display the remaining
 food level in the feeder.
-5) Customizable Alerts Send notifications or
-alerts to pet owners when the food level
+4) Customizable Alerts Send notifications;
+5) Alerts pet owners when the food level
 is low or when feeding is completed.
 
 
