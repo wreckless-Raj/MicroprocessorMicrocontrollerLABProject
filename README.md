@@ -17,15 +17,15 @@ while addressing safety concerns and promoting convenience.
 
 
 _COMPONENT LIST_
-Arduino uno
-NodeMcu ESP8266
-Ultrasonic Sensor
-Digital Electronic Weighing Sensor, load-cell (scale 1 kg)
-Servo Motor
-Speaker and voice recording tool
-Rtc module
-Breadboard
-Wires
+1. Arduino uno
+2. NodeMcu ESP8266
+3. Ultrasonic Sensor
+4. Digital Electronic Weighing Sensor, load-cell (scale 1 kg)
+5. Servo Motor
+6. Speaker and voice recording tool
+7. Rtc module
+8. Breadboard
+9. Wires
 
 _FEATURES_
 1) Programmable Feeding Schedule Allow
